@@ -1,0 +1,7 @@
+C:\Users\victo\source\repos\ObjectOrientedCalculator\ObjectOrientedCalculator\bin\Debug\ObjectOrientedCalculator.exe.config
+C:\Users\victo\source\repos\ObjectOrientedCalculator\ObjectOrientedCalculator\bin\Debug\ObjectOrientedCalculator.exe
+C:\Users\victo\source\repos\ObjectOrientedCalculator\ObjectOrientedCalculator\bin\Debug\ObjectOrientedCalculator.pdb
+C:\Users\victo\source\repos\ObjectOrientedCalculator\ObjectOrientedCalculator\obj\Debug\ObjectOrientedCalculator.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\ObjectOrientedCalculator\ObjectOrientedCalculator\obj\Debug\ObjectOrientedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ObjectOrientedCalculator\ObjectOrientedCalculator\obj\Debug\ObjectOrientedCalculator.exe
+C:\Users\victo\source\repos\ObjectOrientedCalculator\ObjectOrientedCalculator\obj\Debug\ObjectOrientedCalculator.pdb
