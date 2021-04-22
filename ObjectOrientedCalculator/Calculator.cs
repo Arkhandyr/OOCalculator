@@ -5,7 +5,7 @@
         public double firstNumber;
         public double secondNumber;
         public double result;
-        public string operationHistory = "##### Operations #####\n";
+        public string operationHistory = "\n##### Operations #####\n";
 
 
         public double Add()
@@ -31,17 +31,12 @@
 
         public double Division()
         {
-            if(secondNumber != 0)
+            if (secondNumber != 0)
             {
                 result = firstNumber / secondNumber;
                 operationHistory += $"{firstNumber} / {secondNumber} = " + result.ToString() + "\n";
             }
             return result;
-        }
-
-        public void ShowOperations()
-        {
-            
         }
     }
 }
